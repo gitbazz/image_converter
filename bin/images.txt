@@ -1,0 +1,1 @@
+Color /Users/bazillahzargar/eclipse-workspace/Assign1/src/mug1.jpg 5 Inverse Contour Thresholding Adjustment Magnify 
